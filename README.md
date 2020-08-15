@@ -1,5 +1,5 @@
 # Vinnuleikur
-A work game.
+A game developed with BABOON system.  
 
 ## Git naming conventions
 
